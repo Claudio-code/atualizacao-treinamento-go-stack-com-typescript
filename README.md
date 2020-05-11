@@ -26,6 +26,6 @@
 <a id="como-usar"></a>
 ### :checkered_flag: Como usar
 
-- Clone esse repositório: `git clone https://github.com/vitorserrano/search-devs.git`
+- Clone esse repositório: `git clone https://github.com/Claudio-code/back-end-sistema-controle-agendamentos.git`
 - Instale as dependências: `yarn`
 - Start a aplicação: `yarn start`
